@@ -1,7 +1,7 @@
 
 
 2015年3月18日：
-#目前网页镜像正在被DDOS攻击。请在Github上阅读镜像内容或[下载免翻墙安卓浏览器](https://raw.githubusercontent.com/greatfire/images/master/FreeBrowser-1.3.apk)
+#目前网页镜像正在被DDOS攻击。请在Github上阅读镜像内容或[下载免翻墙安卓浏览器](https://raw.githubusercontent.com/greatfire/z/master/FreeBrowser-1.3.apk)
 进行阅读。
 #
 
@@ -16,18 +16,18 @@
 
 **自由浏览安卓应用 - 免翻墙安卓应用**
 
-[![x](https://raw.githubusercontent.com/greatfire/images/master/fb.qr.png)](https://raw.githubusercontent.com/greatfire/images/master/FreeBrowser-1.3.apk)
+[![x](https://raw.githubusercontent.com/greatfire/images/master/fb.qr.png)](https://raw.githubusercontent.com/greatfire/z/master/FreeBrowser-1.3.apk)
 
 **泡泡 - 免翻墙安卓应用**
 
-[![x](https://raw.githubusercontent.com/greatfire/images/master/paopao.qr.png)](https://raw.githubusercontent.com/greatfire/images/master/PaoPaoAndroid2.1.apk)
+[![x](https://raw.githubusercontent.com/greatfire/images/master/paopao.qr.png)](https://raw.githubusercontent.com/greatfire/z/master/PaoPaoAndroid2.1.apk)
 
 **中国数字时代 - 免翻墙安卓应用**
 
-[![x](https://raw.githubusercontent.com/greatfire/images/master/cdt.qr.png)](https://raw.githubusercontent.com/greatfire/images/master/ChinaDigitalTimesAndroid2.0.apk)
+[![x](https://raw.githubusercontent.com/greatfire/images/master/cdt.qr.png)](https://raw.githubusercontent.com/greatfire/z/master/ChinaDigitalTimesAndroid2.0.apk)
 
 **自由微博 - 免翻墙安卓应用**
 
-[![x](https://raw.githubusercontent.com/greatfire/images/master/freeweibo.qr.png)](https://raw.githubusercontent.com/greatfire/images/master/FreeWeibo1.9.apk)
+[![x](https://raw.githubusercontent.com/greatfire/images/master/freeweibo.qr.png)](https://raw.githubusercontent.com/greatfire/z/master/FreeWeibo1.9.apk)
 
 
