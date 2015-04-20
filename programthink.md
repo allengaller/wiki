@@ -1,5 +1,5 @@
 
-<img src="../../raw/master/x/http://lh4.googleusercontent.com/-Wxl9HaDj1-I/SYPJWMNM65I/AAAAAAAAAcc/FjINutqB9_I/ThinkerSmall.jpg" alt="编程随想"/><table>
+<img src="../../raw/master/x/ThinkerSmall.jpg" alt="编程随想"/><table>
 	<tr>
 								<td><a href="https://raw.githubusercontent.com/greatfire/feeds/master/programthink.rss"
 			target="programthink-rss">RSS <img

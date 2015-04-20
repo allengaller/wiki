@@ -1,7 +1,7 @@
 
-<img src="../../raw/master/x/http://boxun.com/images/logo_40.gif" alt="博讯新闻"/><table>
+<img src="../../raw/master/x/logo_40.gif" alt="博讯新闻"/><table>
 	<tr>
-								<td><a href="https://d21z9uafn48sht.cloudfront.net/"
+								<td><a href="https://wam-boxun7.azurewebsites.net/"
 			target="boxun-mirror">免翻墙网页版</a></td>
 	</tr>
 	</table>

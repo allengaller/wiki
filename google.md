@@ -1,7 +1,7 @@
 
 <table>
 	<tr>
-								<td><a href="https://d1r46726cmwdr6.cloudfront.net/"
+								<td><a href="https://wam-google5.azurewebsites.net/"
 			target="google-mirror">免翻墙网页版</a></td>
 	</tr>
 	</table>

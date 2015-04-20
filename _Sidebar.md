@@ -1,14 +1,14 @@
 
 2015年3月18日：
 <strong>目前网页镜像正在被DDOS攻击。请在Github上阅读镜像内容或<a
-	href="FreeBrowser-1.3.apk">下载免翻墙安卓浏览器</a>进行阅读。
+	href="FreeBrowser-1.2.apk">下载免翻墙安卓浏览器</a>进行阅读。
 </strong>
 
 ## 自由浏览安卓应用
 
 自动翻墙访问被封锁的网站。
 
-<a href="FreeBrowser-1.3.apk"><img
+<a href="FreeBrowser-1.2.apk"><img
 	src="https://raw.githubusercontent.com/greatfire/images/master/fb.qr.png" /></a>
 
 如果站点访问不正常，请发邮件到 support@greatfire.org。

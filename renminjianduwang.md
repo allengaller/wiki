@@ -1,7 +1,7 @@
 
 <img src="../../raw/master/x/http://www.rmjdw.com/skins/default/1_01.gif" alt="人民监督网"/><table>
 	<tr>
-								<td><a href="https://d2r4p2o5kwffzg.cloudfront.net/"
+								<td><a href="https://wam-rm4.azurewebsites.net/"
 			target="renminjianduwang-mirror">免翻墙网页版</a></td>
 	</tr>
 	</table>

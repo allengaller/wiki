@@ -1,7 +1,7 @@
 
-<img src="../../raw/master/x/https://getlantern.org/images/8e0a2b81.c82003be.LanternYellow2.png" alt="蓝灯 - Lantern"/><table>
+<img src="../../raw/master/x/8e0a2b81.c82003be.LanternYellow2.png" alt="蓝灯 - Lantern"/><table>
 	<tr>
-								<td><a href="https://wam-lantern.azurewebsites.net/"
+								<td><a href="https://d1rdokeixwnh00.cloudfront.net/"
 			target="lantern-mirror">免翻墙网页版</a></td>
 	</tr>
 	</table>
