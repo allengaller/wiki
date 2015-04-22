@@ -3,6 +3,11 @@
 2015年3月18日：
 #[下载免翻墙安卓浏览器](https://raw.githubusercontent.com/greatfire/z/master/FreeBrowser-1.3.apk)
 进行阅读。
+如果您使用我们的自由浏览器和其他APP时发生问题请按如下格式反馈到support@greatfire.com，谢谢
+1.机型、Android系统版本号、是否第三方ROM、使用何种网络
+2.在什么情况下发生了什么问题，详细描述
+如果你会抓取log，也可以把发生问题时的log发送给我
+
 #
 
 <a href="https://github.com/greatfire/wiki/wiki/nyt" title="纽约时报中文网 国际纵览">![x](https://raw.githubusercontent.com/greatfire/images/master/nyt.png) **纽约时报**</a> | <a href="https://github.com/greatfire/wiki/wiki/dw" title="">![x](https://raw.githubusercontent.com/greatfire/images/master/dw.png) **德国之声**</a>
