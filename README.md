@@ -19,6 +19,10 @@
 <a href="https://github.com/freeweibo/s" title="自由微博 - 匿名和不受屏蔽的新浪微博搜索">![x](https://raw.githubusercontent.com/greatfire/images/master/freeweibo.png) **自由微博**</a> | <a href="https://github.com/greatfire/wiki/wiki/open-source" title="欢迎访问GreatFire.org开发者项目网站">![x](https://raw.githubusercontent.com/greatfire/images/master/open-source.png) **开源项目**</a>
 
 
+**纽约时报 - 免翻墙安卓应用**
+
+[![x](https://raw.githubusercontent.com/greatfire/images/master/nyt.qr.png)](https://raw.githubusercontent.com/greatfire/z/master/NYTimes1.0.apk)
+
 **自由浏览安卓应用 - 免翻墙安卓应用**
 
 [![x](https://raw.githubusercontent.com/greatfire/images/master/fb.qr.png)](https://raw.githubusercontent.com/greatfire/z/master/FreeBrowser-1.3.apk)
