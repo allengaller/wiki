@@ -1,7 +1,6 @@
 
 
 
-2015年3月18日：
 #[下载免翻墙安卓浏览器](https://raw.githubusercontent.com/greatfire/z/master/FreeBrowser-1.3.apk)
 进行阅读。
 如果您使用我们的自由浏览器和其他APP时发生问题请按如下格式反馈到support@greatfire.org，谢谢
