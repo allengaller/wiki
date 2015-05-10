@@ -1,7 +1,7 @@
 
 
 
-#[下载免翻墙安卓浏览器](https://raw.githubusercontent.com/greatfire/z/master/FreeBrowser-1.3.apk)
+#[下载免翻墙安卓浏览器](https://raw.githubusercontent.com/greatfire/z/master/FreeBrowser.apk)
 进行阅读。
 如果您使用我们的自由浏览器和其他APP时发生问题请按如下格式反馈到support@greatfire.org，谢谢
 1.机型、Android系统版本号、是否第三方ROM、使用何种网络
@@ -21,22 +21,22 @@
 
 **纽约时报 - 免翻墙安卓应用**
 
-[![x](https://raw.githubusercontent.com/greatfire/images/master/nyt.qr.png)](https://raw.githubusercontent.com/greatfire/z/master/NYTimes1.0.apk)
+[![x](https://raw.githubusercontent.com/greatfire/images/master/nyt.qr.png)](https://raw.githubusercontent.com/greatfire/z/master/NYTimes.apk)
 
 **自由浏览安卓应用 - 免翻墙安卓应用**
 
-[![x](https://raw.githubusercontent.com/greatfire/images/master/fb.qr.png)](https://raw.githubusercontent.com/greatfire/z/master/FreeBrowser-1.3.apk)
+[![x](https://raw.githubusercontent.com/greatfire/images/master/fb.qr.png)](https://raw.githubusercontent.com/greatfire/z/master/FreeBrowser.apk)
 
 **泡泡 - 免翻墙安卓应用**
 
-[![x](https://raw.githubusercontent.com/greatfire/images/master/paopao.qr.png)](https://raw.githubusercontent.com/greatfire/z/master/PaoPaoAndroid2.1.apk)
+[![x](https://raw.githubusercontent.com/greatfire/images/master/paopao.qr.png)](https://raw.githubusercontent.com/greatfire/z/master/PaoPaoAndroid.apk)
 
 **中国数字时代 - 免翻墙安卓应用**
 
-[![x](https://raw.githubusercontent.com/greatfire/images/master/cdt.qr.png)](https://raw.githubusercontent.com/greatfire/z/master/ChinaDigitalTimesAndroid2.0.apk)
+[![x](https://raw.githubusercontent.com/greatfire/images/master/cdt.qr.png)](https://raw.githubusercontent.com/greatfire/z/master/ChinaDigitalTimesAndroid.apk)
 
 **自由微博 - 免翻墙安卓应用**
 
-[![x](https://raw.githubusercontent.com/greatfire/images/master/freeweibo.qr.png)](https://raw.githubusercontent.com/greatfire/z/master/FreeWeibo1.9.apk)
+[![x](https://raw.githubusercontent.com/greatfire/images/master/freeweibo.qr.png)](https://raw.githubusercontent.com/greatfire/z/master/FreeWeibo.apk)
 
 
